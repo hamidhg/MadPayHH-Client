@@ -24,9 +24,30 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/wp-content/plugins/munza-core/assets/front/css/assets3c21.css",
+              "src/assets/wp-content/plugins/munza-core/assets/front/css/vendor/animate3c21.css",
+              "src/assets/wp-content/plugins/munza-core/assets/front/css/style3c21.css",
+              "src/assets/wp-content/themes/munza/assets/css/vendor/rest3c21.css",
+              "src/assets/wp-content/themes/munza/assets/css/vendor/outlinefont3c21.css",
+              "src/assets/wp-content/themes/munza/assets/css/vendor/streamline3c21.css",
+              "src/assets/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.mine23c.css",
+              "src/assets/wp-content/plugins/munza-core/assets/front/css/vendor/slick.slider3c21.css",
+              "src/assets/wp-content/themes/munza/assets/css/style3c21.css",
+              "src/assets/wp-content/plugins/munza-core/assets/front/css/vendor/recent-posts3c21.css",
+              "src/assets/wp-content/themes/munza/rtl.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/wp-includes/js/jquery/jqueryb8ff.js",
+              "src/assets/wp-content/plugins/munza-core/assets/front/js/vendor/jquery.appear.min.js",
+              "src/assets/wp-content/themes/munza/assets/js/vendor/modernizr.js",
+              "src/assets/wp-content/themes/munza/assets/js/vendor/scroll.to.id.js",
+              "src/assets/wp-content/themes/munza/assets/js/vendor/jquery.slurve.js",
+              "src/assets/wp-content/plugins/munza-core/assets/front/js/vendor/slick.slider.js",
+              "src/assets/wp-content/plugins/munza-core/assets/front/js/vendor/progresscircle.js",
+              "src/assets/wp-content/themes/munza/assets/js/script.js"
+
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +140,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MadpayHH-App"
+    }
+  },
+  "defaultProject": "MadpayHH-App",
+  "cli": {
+    "analytics": "1ef6e596-9478-4ba5-b1c2-3d0f2824573c"
+  }
 }
