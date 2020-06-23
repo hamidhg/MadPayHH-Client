@@ -8,5 +8,6 @@ export  const loginRoutes: Routes = [
     component: LoginComponent
 
    },
+
 ];
 
